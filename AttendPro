@@ -1,0 +1,35 @@
+# AttendPro 📱
+
+AttendPro is a modern Android attendance management application designed to make student attendance tracking simple, fast, and organized.
+
+## ✨ Features
+
+- 📊 Attendance tracking
+- 📚 Subject management
+- 📅 Attendance history
+- 📈 Attendance statistics
+- 🎨 Modern and user-friendly UI
+- 💾 Local data management
+- ⚡ Fast and easy to use
+
+## 🛠️ Technologies Used
+
+- Java
+- Android Studio
+- XML
+- SQLite
+- Gradle
+
+## 🎯 Purpose
+
+AttendPro is designed to help students easily record and monitor their attendance and keep track of their academic attendance requirements.
+
+## 👨‍💻 Developer
+
+**Arpit Gathibandhe**
+
+Computer Science Engineering Student
+
+## 📄 License
+
+This project is licensed under the MIT License.
